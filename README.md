@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-O projeto desenvolvido durante o programa Explorer da Rocketseat consiste em criar uma página para treinos customizáveis e exclusivos para cada usuário.
+O projeto desenvolvido durante o programa Explorer da Rocketseat consistiu em criar uma página para treinos customizáveis e exclusivos para cada usuário.
 
 
 ## 🚀 Tecnologias
