@@ -17,4 +17,4 @@ O projeto consiste em criar uma página para treinos customizáveis e exclusivos
 
 O layout pode ser visto através do Figma
 
-[Layout Web]([https://www.figma.com/file/hWF7zWWJgk8qOJTdcxCUUB/Explorer---Projeto-01-(Copy)?node-id=1%3A2](https://www.figma.com/file/HwuFP2SB1gwnSPwT61OiGm/Explorer---Projeto-02-(Copy)))
+[Layout Web](https://www.figma.com/file/HwuFP2SB1gwnSPwT61OiGm/Explorer---Projeto-02-(Copy)?node-id=0%3A1)
